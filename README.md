@@ -2,6 +2,9 @@
 
 Sharing the most interesting, informative, and educational studies or articles that I encounter throughout my I.T. career. Recommendations and more resources are always welcome by either a pull request or an email.
 
+### Algorithms
+- [TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238)
+
 ### Social engineering
 
 - [Chemosensory Cues to Conspecific Emotional Stress Activate Amygdala in Humans - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713432/)
