@@ -22,6 +22,7 @@ Sharing the most interesting, informative, and educational studies or articles t
 
 ### Learning and Memory
 
+ - [How to Learn Better in the Digital Age](https://giansegato.com/essays/edutainment-is-not-learning)
  - [The Right Time to Learn: Mechanisms and Optimizations of Spaced Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126970/)
 
 ### Cryptography 
