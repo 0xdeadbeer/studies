@@ -20,6 +20,10 @@ Sharing the most interesting, informative, and educational studies or articles t
 
 - [Dimensions of Animal Consciousness - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364661320301923)
 
+### Learning and Memory
+
+ - [The Right Time to Learn: Mechanisms and Optimizations of Spaced Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126970/)
+
 ### Cryptography 
 
 - [Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf)
